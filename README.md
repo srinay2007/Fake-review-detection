@@ -1,6 +1,6 @@
 # Fake-review-detection
 
-This is thesis project done as part of Masters in Data Science Program.
+This is a thesis project done as part of Masters in Data Science Program in Liverpool John Moore University, UK.
 
 **The research topic** : Fake Review Detection using Deep Learning Techniques.
 
