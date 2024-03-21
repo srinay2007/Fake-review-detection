@@ -1,12 +1,12 @@
 # Unweiling Online Deception : Fake-review-detection using Deep Learning Techniques
 
-This is a thesis project done as part of Masters in Data Science Program in Liverpool John Moore University, UK.
+This is a thesis project done as part of my Masters in Data Science Program in Liverpool John Moore University, UK.
 
 **The research topic** : Fake Review Detection using Deep Learning Techniques.
 
 **Aim and Objectives**
 
-The main aim of this research is to study various machine learning and deep learning techniques used for fake review detection and come up novel approach that can be applied using supervised or semi supervised methods for unlabeled data.
+The main aim of this research is to study various machine learning and deep learning techniques used for fake review detection and come up with novel approach that can be applied using supervised or semi supervised methods for unlabeled data.
 
 • To analyze various Embedding Techniques Machine Learning and Deep Learning techniques for fake review detection.
 • To propose a suitable feature extraction method and model architecture for fake review detection.
