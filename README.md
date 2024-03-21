@@ -1,4 +1,4 @@
-# Fake-review-detection
+# Unweiling Online Deception : Fake-review-detection using Deep Learning Techniques
 
 This is a thesis project done as part of Masters in Data Science Program in Liverpool John Moore University, UK.
 
