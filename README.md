@@ -8,7 +8,7 @@ This is a thesis project done as part of Masters in Data Science Program in Live
 
 The main aim of this research is to study various machine learning and deep learning techniques used for fake review detection and come up novel approach that can be applied using supervised or semi supervised methods for unlabeled data.
 
-• To analyze various Embedding Techniques machine learning and deep learning techniques for fake review detection.
+• To analyze various Embedding Techniques Machine Learning and Deep Learning techniques for fake review detection.
 • To propose a suitable feature extraction method and model architecture for fake review detection.
 • To assess the effectiveness of different Embedding Techniques such as BERT, RoBERTa, DistilBERT, XLNET and machine learning algorithms, including Support Vector Machine, Naïve-Bayes, and convolutional neural networks (CNNs), recurrent neural networks (RNNs), LSTM, BERT (transformer),  Adversarial Learning for automatic feature learning and complex language processing.
 • To evaluate the overall performance of the proposed framework using appropriate metrics and validation techniques to assess its efficiency and accuracy in fake review detection.
