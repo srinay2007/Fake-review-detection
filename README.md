@@ -18,6 +18,7 @@ The main aim of this research is to study various machine learning and deep lear
 **The research methodology framework**
 
 ![image](https://github.com/srinay2007/Fake-review-detection/assets/98680554/3940c88d-df28-4324-b0a0-37e2beaaaf84)
+Figure : Research Methodology Framework
 
 **Embedding Techniques:** 
 Traditional feature engineering may involve creating numerical features based on domain knowledge or extracting statistical properties from raw data. However, in NLP tasks, raw text data cannot be directly fed into machine learning models. Embedding techniques like **Word2Vec, GloVe, BERT** and others transform words or text sequences into dense numerical vectors, capturing semantic and contextual information.
@@ -34,7 +35,7 @@ BERT (Bidirectional Encoder Representations from Transformers) :
 
 ![image](https://github.com/srinay2007/Fake-review-detection/assets/98680554/c4d9ba5c-3415-4635-9cec-45581968d8b4)
  
-Figure 3 BERT Illustration
+Figure: BERT Illustration
 
 Source: https://www.researchgate.net/publication/359301499_Deep_learning-based_methods_for_natural_hazard_named_entity_recognition/figures?lo=1
 
@@ -46,7 +47,7 @@ Source: https://www.researchgate.net/publication/359301499_Deep_learning-based_m
  
 ![image](https://github.com/srinay2007/Fake-review-detection/assets/98680554/b472d56e-72e9-4770-b609-c7bc36847ff4)
 
-Figure 4 Comparison of Embedding techniques.
+Figure: Comparison of Embedding techniques.
 
 **Implementation**
 
