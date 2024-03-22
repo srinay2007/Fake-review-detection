@@ -56,13 +56,15 @@ Table: Comparison of Embedding techniques
 
 **Implementation**
 
-This thesis has implemented  the Machine Learning algorithms, namely **Logistic Regression, Support Vector Machine, Random Forest, XGBoost** and Deep Learning Models such as **CNN (Convolution Neural Network), CNN-LSTM, RNN -LSTM, BERT (Bidirectional Encoder Representations from Transformers)** applied for the fake review detection. During this process various embedding techniques such as **TFIDF, Glove, BERT, ROBERTA, DISTEILBERT, XLNET** embeddings were explored. Balancing techniques such as ADASYN, SMOTE (Oversampling minority classes) were tested. Standard Scaler were applied for numerical columns. It is noted that Deep Learning Models MLP Classifier with BERT, ROBERTA, DISTEILBERT, XLNET Embeddings outperformed other Embedding techniques TFIDF and Glove on Machine Learning Classifiers.
+This thesis has implemented  the Machine Learning algorithms, namely **Logistic Regression, Support Vector Machine, Random Forest, XGBoost** and Deep Learning Models such as **CNN (Convolution Neural Network), CNN-LSTM, RNN -LSTM, BERT (Bidirectional Encoder Representations from Transformers)** applied for the fake review detection. During this process various embedding techniques such as **TFIDF, Glove, BERT, ROBERTA, DISTEILBERT, XLNET** embeddings were explored. Balancing techniques such as ADASYN, SMOTE (Oversampling minority classes) were tested. Standard Scaler were applied for numerical columns. 
+
+**Results** : It is found from this experiments that the Deep Learning Models ie **MLP Classifier** with **BERT, ROBERTA, DISTEILBERT, XLNET** Embeddings outperformed other Embedding techniques **TFIDF and Glove** on Machine Learning Classifiers.
 
 The codes are organized into 4 folder 
-1. Tfidf - 5 ML Models tested with Tfidf embedding technique
-2. Glove - 5 ML Models tested with Glove embedding technique
-3. BERT - SVM Classifier tested with BERT and MLP Classifier tested with BERT, RoBERTa, DistilBERT, XLNET embeddnig techniques. 
-4. DL Classifiers - CNN, CNN-LSTM and RNN-LSTM classifiers are tested.
+1. **Tfidf** - 5 ML Models tested with Tfidf embedding technique
+2. **Glove** - 5 ML Models tested with Glove embedding technique
+3. **BERT** - SVM Classifier tested with BERT and MLP Classifier tested with **BERT, RoBERTa, DistilBERT, XLNET** embeddnig techniques. 
+4. **DL Classifiers** - **CNN, CNN-LSTM and RNN-LSTM** classifiers are tested.
 
 
 
