@@ -56,9 +56,9 @@ Table: Comparison of Embedding techniques
 
 **Implementation**
 
-This thesis has implemented  the Machine Learning algorithms, namely **Logistic Regression, Support Vector Machine, Random Forest, XGBoost** and Deep Learning Models such as **CNN (Convolution Neural Network), CNN-LSTM, RNN -LSTM, BERT (Bidirectional Encoder Representations from Transformers)** applied for the fake review detection. During this process various embedding techniques such as **TFIDF, Glove, BERT, ROBERTA, DISTEILBERT, XLNET** embeddings were explored. Balancing techniques such as ADASYN, SMOTE (Oversampling minority classes) were tested. Standard Scaler were applied for numerical columns. 
+This thesis has implemented  the Machine Learning algorithms, namely **Logistic Regression, Support Vector Machine, Random Forest, XGBoost** and Deep Learning Models such as **CNN (Convolution Neural Network), CNN-LSTM, RNN -LSTM, BERT (Bidirectional Encoder Representations from Transformers)** applied for the fake review detection. During this process various embedding techniques such as **Tfidf, Glove, BERT, RoBERTa, DistilBERT, XLNET** embeddings were explored. Balancing techniques such as ADASYN, SMOTE (Oversampling minority classes) were tested. Standard Scaler were applied for numerical columns. 
 
-**Results** : It is found from this experiments that the Deep Learning Models ie **MLP Classifier** with **BERT, ROBERTA, DISTEILBERT, XLNET** Embeddings outperformed other Embedding techniques **TFIDF and Glove** on Machine Learning Classifiers.
+**Results** : It is found from this experiments that the Deep Learning Models ie **MLP Classifier** with **BERT, RoBERTa, DistilBERT, XLNET** Embeddings outperformed other Embedding techniques **Tfidf and Glove** on Machine Learning Classifiers.
 
 The codes are organized into 4 folder 
 1. **Tfidf** - 5 ML Models tested with Tfidf embedding technique
