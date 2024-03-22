@@ -45,10 +45,11 @@ Source: https://www.researchgate.net/publication/359301499_Deep_learning-based_m
 **DistilBERT**: Creates a compact and efficient version of BERT through a technique called knowledge distillation. It learns from a larger pre-trained model (like BERT) but with a significantly smaller size, allowing for faster processing and lower resource requirements, while maintaining good performance on NLP tasks
 
 **XLNet**: Addresses limitations in BERT's pre-training process by considering all possible permutations of ordering the input words. This can potentially capture more nuanced relationships between words compared to BERT, but it comes with a more complex architecture and even higher computational demands.
- 
+
+Table: Comparison of Embedding techniques
+
 ![image](https://github.com/srinay2007/Fake-review-detection/assets/98680554/b472d56e-72e9-4770-b609-c7bc36847ff4)
 
-Figure: Comparison of Embedding techniques.
 
 **Implementation**
 
