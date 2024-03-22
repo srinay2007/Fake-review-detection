@@ -61,7 +61,7 @@ This thesis has implemented  the Machine Learning algorithms, namely **Logistic 
 The codes are organized into 4 folder 
 1. Tfidf - 5 ML Models tested with Tfidf embedding technique
 2. Glove - 5 ML Models tested with Glove embedding technique
-3. BERT - SVM Classifier tested with BERT and MLP Classifier tested with BERT, ROBERTA, DISTEILBERT, XLNET embeddnig techniques. 
+3. BERT - SVM Classifier tested with BERT and MLP Classifier tested with BERT, RoBERTa, DistilBERT, XLNET embeddnig techniques. 
 4. DL Classifiers - CNN, CNN-LSTM and RNN-LSTM classifiers are tested.
 
 
