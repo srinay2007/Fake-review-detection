@@ -15,6 +15,9 @@ The main aim of this research is to study various machine learning and deep lear
 
 **Data set** : Yelp data set is used for this thesis.
 
+**Source :** https://github.com/yashpandey474/Identification-of-fake-reviews/blob/main/Datasets/Yelp%20Dataset%20Reduced.csv
+
+
 **The research methodology framework**
 
 ![image](https://github.com/srinay2007/Fake-review-detection/assets/98680554/3940c88d-df28-4324-b0a0-37e2beaaaf84)
