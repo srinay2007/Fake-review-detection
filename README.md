@@ -27,13 +27,13 @@ Figure : Research Methodology Framework
 **Embedding Techniques:** 
 Traditional feature engineering may involve creating numerical features based on domain knowledge or extracting statistical properties from raw data. However, in NLP tasks, raw text data cannot be directly fed into machine learning models. Embedding techniques like **Word2Vec, GloVe, BERT** and others transform words or text sequences into dense numerical vectors, capturing semantic and contextual information.
 
-TF-IDF: (Term Frequency Inverse document frequency)
+**TF-IDF:** (Term Frequency Inverse document frequency)
 Focuses on identifying important words in a document. It considers how often a word appears in the document (frequency) and how rare it is overall (inverse document frequency). This helps prioritize keywords that are specific and essential to the document's content.
 
-GloVe: (Global Vectors for Word Representation) 
+**GloVe:** (Global Vectors for Word Representation) 
 Captures semantic relationships between words. It analyzes a massive amount of text data to see how often words co-occur, essentially learning that words appearing together frequently share similar meanings. This allows tasks like finding synonyms or analogies based on word vector similarities.
 
-BERT (Bidirectional Encoder Representations from Transformers) : 
+**BERT** (Bidirectional Encoder Representations from Transformers) : 
 •	A powerful technique for understanding words based on their context in a sentence. It's pre-trained on a huge dataset of text and code, allowing it to learn contextual word representations. 
 •	BERT can be used as an embedding technique to generate contextualized word embeddings for text data. Unlike traditional word embeddings like Word2Vec or GloVe, which produce fixed representations for each word regardless of context, BERT captures contextual information by considering the entire sentence bidirectionally.
 
