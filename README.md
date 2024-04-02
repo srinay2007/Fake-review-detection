@@ -2,7 +2,7 @@
 
 This is a thesis project done as part of my Masters in Data Science Program in Liverpool John Moore University, UK.
 
-**The research topic** : Fake Review Detection using Deep Learning Techniques.
+**The research topic** : Unveiling Online Deception : Fake Review Detection using Deep Learning Techniques.
 
 **Aim and Objectives**
 
